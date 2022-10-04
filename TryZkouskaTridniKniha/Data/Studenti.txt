@@ -1,0 +1,4 @@
+cislo;prijmeni;jmeno
+3;Marek;Jan
+2;Duda;Petr
+5;Janata;Ruda
